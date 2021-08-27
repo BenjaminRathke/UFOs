@@ -4,10 +4,10 @@ A journalist would like to publish her article on UFOs on an easy-to-use, dynami
 
 ## UFO Sightings:  How to Search
 *1:  Enter any combination of filter input into the spaces provided.  Use exact capitalization and syntax as shown.
-![filterBoxes](images/filterBoxes.PNG)
+![filterBoxes](images/filterBoxes.jpg)
   
 *2:  Observe all data for each UFO sighting in the table shown, which filters in real-time:
-![filteredTable](images/filterBoxes.PNG)
+![filteredTable](images/filterBoxes.jpg)
 
 ## UFO Sightings with JavaScript
 One drawback of this webpage is that syntax must be exact.  For example, typing "CA" will return no information, but "ca" will return all California sightings.
